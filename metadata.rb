@@ -4,7 +4,7 @@ maintainer_email 'do@schdav.org'
 license 'apache2'
 description 'Install/configure a wordpress blog'
 long_description 'Install wordpress with modern php and mysql on CentOS 7'
-version '0.1.0'
+version '0.1.1'
 
 supports 'centos'
 supports 'rhel'
